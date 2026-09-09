@@ -26,12 +26,12 @@ I'm a final-year **B.Tech Computer Science (AIML)** student at Shri Vaishnav Vid
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Frontend**
+**Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -39,14 +39,15 @@ I'm a final-year **B.Tech Computer Science (AIML)** student at Shri Vaishnav Vid
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend**
+**Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Database**
+**Database**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools & Practices**
+**Tools & Practices**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API_Development-005571?style=flat-square&logo=fastapi&logoColor=white)
@@ -67,19 +68,17 @@ I'm a final-year **B.Tech Computer Science (AIML)** student at Shri Vaishnav Vid
 
 ## 🚀 Featured Projects
 
-### 🎮 [Simon Says Game](https://github.com/KaranDevda/Simon-Says-Game)
-An interactive memory-based browser game built with JavaScript, focused on clean UI logic and responsive interaction handling.
-`JavaScript` `HTML5` `CSS3`
-
-### 🩺 [Queue Cure](https://github.com/KaranDevda/queue-cure)
-A queue management web application designed to streamline scheduling and reduce wait times through an efficient, structured workflow.
-`JavaScript` `REST API`
+### 📈 [Zerodha Clone](https://github.com/KaranDevda/Zerodha-Clone)
+A full-stack stock trading platform clone replicating core dashboard features, portfolio management, interactive charts, and user trade workflows.
+`React` `Node.js` `Express.js` `MongoDB`
 
 ### 🎨 [Colorize AI](https://github.com/KaranDevda/Colorize-AI)
 An image colorization system that transforms grayscale images into realistic colored outputs using preprocessing techniques like normalization, resizing, contrast enhancement, and noise reduction ahead of model inference.
 `Python` `OpenCV` `NumPy`
 
-> 🔜 **TrackFuel** — a full-stack fitness tracking platform (Flask + React + SQLite) — coming soon to GitHub.
+### 🎮 [Simon Says Game](https://github.com/KaranDevda/Simon-Says-Game)
+An interactive memory-based browser game built with JavaScript, focused on clean UI logic and responsive interaction handling.
+`JavaScript` `HTML5` `CSS3`
 
 ---
 
@@ -87,28 +86,26 @@ An image colorization system that transforms grayscale images into realistic col
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KaranDevda&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranDevda&layout=compact&hide_border=true&theme=default" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=KaranDevda&show_icons=true&theme=tokyonight&hide_border=true" alt="Karan Devda's GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaranDevda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=KaranDevda&theme=default&hide_border=true" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranDevda&theme=minimal&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranDevda&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
 </div>
 
----
-
 ## 🎓 Education
 
-**B.Tech in Computer Science (AIML)**
+**B.Tech in Computer Science (AIML)**  
 Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore · Jul 2022 – Jun 2026 · CGPA: 7.8
 
 ---
 
 ## 📜 Certifications
 
+- McKinsey Forward Learning Program — McKinsey & Company
 - Data Visualisation for Business Insights — Tata Virtual Internship (Feb 2025)
-- Goldman Sachs Excel Skills Certified — Forage Virtual Internship (Jan 2025)
 - NPTEL Entrepreneurship Essentials — IIT Kharagpur (Apr 2024)
 
 ---
